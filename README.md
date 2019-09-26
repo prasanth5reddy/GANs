@@ -1,2 +1,2 @@
 # GANs
-Implementation of GANs in PyTorch
+Implementation of Generative Adversarial Networks (GAN) in PyTorch
