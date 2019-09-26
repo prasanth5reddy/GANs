@@ -1,2 +1,2 @@
 # GANs
-Implementing GANs in PyTorch
+Implementation of GANs in PyTorch
